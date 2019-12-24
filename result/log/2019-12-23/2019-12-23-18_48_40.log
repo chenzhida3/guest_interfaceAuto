@@ -1,0 +1,25 @@
+2019-12-23 18:48:40,337 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-23 18:48:40,337 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-23 18:48:40,338 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-23 18:48:40,338 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-23 18:48:40,338 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-23 18:48:40,340 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:48:40,404 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:48:40,438 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:48:40,460 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:48:40,487 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:48:40,520 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:48:40,545 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:48:40,595 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:48:40,672 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:48:40,703 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:48:40,728 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:48:40,752 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:48:40,779 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:48:40,800 - testCase.event.get_event_sec.Get_event_sec - INFO - =============查询发布会接口--auth参数为空================
+2019-12-23 18:48:40,815 - testCase.event.get_event_sec.Get_event_sec - INFO - =============查询发布会接口--auth参数为错误================
+2019-12-23 18:48:40,847 - testCase.event.get_event_sec.Get_event_sec - INFO - ==========查询发布会接口--发布会查询结果为空==============
+2019-12-23 18:48:41,022 - testCase.event.get_event_sec.Get_event_sec - INFO - ==========查询发布会接口--发布会查询结果为空==============
+2019-12-23 18:48:41,196 - testCase.event.get_event_sec.Get_event_sec - INFO - =============查询发布会接口--参数为空================
+2019-12-23 18:48:41,368 - testCase.event.get_event_sec.Get_event_sec - INFO - ==========查询发布会接口--发布会查询成功==============
+2019-12-23 18:48:41,590 - testCase.event.get_event_sec.Get_event_sec - INFO - ============查询发布会接口--发布会查询成功===============

@@ -1,0 +1,15 @@
+2019-12-24 11:08:42,232 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[host:smtp.alibaba.com]
+2019-12-24 11:08:42,235 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[port:25]
+2019-12-24 11:08:42,236 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[mail_user:chenzhida@leelen.cn]
+2019-12-24 11:08:42,236 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[mail_passwd:czd158805.]
+2019-12-24 11:08:42,238 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[send_user:chenzhida@leelen.cn]
+2019-12-24 11:08:42,239 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[rec_users:chenzhida@leelen.cn]
+2019-12-24 11:08:42,240 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[isSend:on]
+2019-12-24 11:09:42,766 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-24 11:09:42,766 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-24 11:09:42,766 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-24 11:09:42,766 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-24 11:09:42,766 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-24 11:10:52,544 - runMain.RunMain - INFO - -----------test start------------
+2019-12-24 11:12:40,548 - runMain.RunMain - ERROR - '_TestResult' object has no attribute 'outputBuffer'
+2019-12-24 11:12:41,736 - runMain.RunMain - INFO - -----------test end------------

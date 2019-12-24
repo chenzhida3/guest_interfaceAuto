@@ -1,0 +1,7 @@
+2019-12-23 14:39:48,481 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-23 14:39:48,481 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-23 14:39:48,481 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-23 14:39:48,481 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-23 14:39:48,481 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-23 14:39:48,484 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:39:48,520 - public.configDB.MysqlDB - INFO - 连接数据库

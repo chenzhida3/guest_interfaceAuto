@@ -1,0 +1,30 @@
+2019-12-24 11:05:19,881 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[host:smtp.alibaba.com]
+2019-12-24 11:05:19,881 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[port:25]
+2019-12-24 11:05:19,881 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[mail_user:chenzhida@leelen.cn]
+2019-12-24 11:05:19,883 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[mail_passwd:czd158805.]
+2019-12-24 11:05:19,883 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[send_user:chenzhida@leelen.cn]
+2019-12-24 11:05:19,883 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[rec_users:chenzhida@leelen.cn]
+2019-12-24 11:05:19,883 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[isSend:on]
+2019-12-24 11:05:19,919 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-24 11:05:19,919 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-24 11:05:19,919 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-24 11:05:19,919 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-24 11:05:19,919 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-24 11:05:19,968 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:05:19,970 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:05:20,020 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:05:20,055 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:05:20,086 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:05:20,111 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:05:20,134 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:05:20,171 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:05:20,243 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:05:20,284 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:05:20,329 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:05:20,351 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:05:20,378 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:05:20,412 - runMain.RunMain - INFO - -----------test start------------
+2019-12-24 11:05:20,414 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:05:20,457 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:05:20,459 - runMain.RunMain - ERROR - '_TestResult' object has no attribute 'outputBuffer'
+2019-12-24 11:05:20,459 - runMain.RunMain - INFO - -----------test end------------

@@ -1,0 +1,74 @@
+2019-12-24 11:28:28,199 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[host:smtp.alibaba.com]
+2019-12-24 11:28:28,199 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[port:25]
+2019-12-24 11:28:28,199 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[mail_user:chenzhida@leelen.cn]
+2019-12-24 11:28:28,200 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[mail_passwd:czd158805.]
+2019-12-24 11:28:28,200 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[send_user:chenzhida@leelen.cn]
+2019-12-24 11:28:28,200 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[rec_users:chenzhida@leelen.cn]
+2019-12-24 11:28:28,200 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 email:[isSend:off]
+2019-12-24 11:28:28,240 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-24 11:28:28,240 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-24 11:28:28,240 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-24 11:28:28,240 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-24 11:28:28,240 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-24 11:28:28,302 - runMain.RunMain - INFO - -----------test start------------
+2019-12-24 11:28:28,303 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:28:28,338 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:28:28,375 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:28:28,396 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:28:28,424 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:28:28,456 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:28:28,491 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:28:28,513 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:28:28,600 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:28:28,623 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:28:28,660 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:28:28,690 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:28:28,723 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 11:28:28,747 - testCase.event.add_event.Add_event - INFO - =============添加发布会接口--参数为空================
+2019-12-24 11:28:28,763 - testCase.event.add_event.Add_event - INFO - ==========添加发布会接口--发布会id已存在==============
+2019-12-24 11:28:28,771 - testCase.event.add_event.Add_event - INFO - ==========添加发布会接口--发布会名称已存在==============
+2019-12-24 11:28:28,776 - testCase.event.add_event.Add_event - INFO - ==========添加发布会接口--时间格式错误==============
+2019-12-24 11:28:28,784 - testCase.event.add_event.Add_event - INFO - ============添加发布会接口--添加成功===============
+2019-12-24 11:28:28,827 - testCase.event.add_event_sec.Add_event_sec - INFO - =============添加发布会接口--签名为空================
+2019-12-24 11:28:28,838 - testCase.event.add_event_sec.Add_event_sec - INFO - =============添加发布会接口--签名超时================
+2019-12-24 11:28:28,851 - testCase.event.add_event_sec.Add_event_sec - INFO - =============添加发布会接口--签名错误================
+2019-12-24 11:28:28,855 - testCase.event.add_event_sec.Add_event_sec - INFO - =============添加发布会接口--参数为空================
+2019-12-24 11:28:28,860 - testCase.event.add_event_sec.Add_event_sec - INFO - ==========添加发布会接口--发布会id已存在==============
+2019-12-24 11:28:28,873 - testCase.event.add_event_sec.Add_event_sec - INFO - ==========添加发布会接口--发布会名称已存在==============
+2019-12-24 11:28:28,886 - testCase.event.add_event_sec.Add_event_sec - INFO - ==========添加发布会接口--时间格式错误==============
+2019-12-24 11:28:28,904 - testCase.event.add_event_sec.Add_event_sec - INFO - ============添加发布会接口--添加成功===============
+2019-12-24 11:28:28,983 - testCase.event.get_event.Get_event - INFO - =============查询发布会接口--参数为空================
+2019-12-24 11:28:28,986 - testCase.event.get_event.Get_event - INFO - ==========查询发布会接口--发布会查询结果为空==============
+2019-12-24 11:28:28,995 - testCase.event.get_event.Get_event - INFO - ==========查询发布会接口--发布会查询结果为空==============
+2019-12-24 11:28:29,001 - testCase.event.get_event.Get_event - INFO - ==========查询发布会接口--发布会查询成功==============
+2019-12-24 11:28:29,006 - testCase.event.get_event.Get_event - INFO - ============查询发布会接口--发布会查询成功===============
+2019-12-24 11:28:29,014 - testCase.event.get_event_sec.Get_event_sec - INFO - =============查询发布会接口--auth参数为空================
+2019-12-24 11:28:29,016 - testCase.event.get_event_sec.Get_event_sec - INFO - =============查询发布会接口--auth参数为错误================
+2019-12-24 11:28:29,098 - testCase.event.get_event_sec.Get_event_sec - INFO - =============查询发布会接口--参数为空================
+2019-12-24 11:28:29,281 - testCase.event.get_event_sec.Get_event_sec - INFO - ==========查询发布会接口--发布会查询结果为空==============
+2019-12-24 11:28:29,481 - testCase.event.get_event_sec.Get_event_sec - INFO - ==========查询发布会接口--发布会查询结果为空==============
+2019-12-24 11:28:29,643 - testCase.event.get_event_sec.Get_event_sec - INFO - ==========查询发布会接口--发布会查询成功==============
+2019-12-24 11:28:29,832 - testCase.event.get_event_sec.Get_event_sec - INFO - ============查询发布会接口--发布会查询成功===============
+2019-12-24 11:28:30,044 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----参数错误=================
+2019-12-24 11:28:30,057 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----发布会id为空=================
+2019-12-24 11:28:30,081 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----发布会状态已关闭=================
+2019-12-24 11:28:30,092 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----发布会人数已满=================
+2019-12-24 11:28:30,105 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----发布会已经开始=================
+2019-12-24 11:28:30,116 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----嘉宾手机号码重复=================
+2019-12-24 11:28:30,164 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----嘉宾手机号码重复=================
+2019-12-24 11:28:30,168 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----添加嘉宾成功=================
+2019-12-24 11:28:30,204 - testCase.guest.get_guest.Get_guest - INFO - =============查询嘉宾接口--参数为空================
+2019-12-24 11:28:30,207 - testCase.guest.get_guest.Get_guest - INFO - ==========查询嘉宾接口--嘉宾查询成功==============
+2019-12-24 11:28:30,223 - testCase.guest.get_guest.Get_guest - INFO - ==========查询嘉宾接口--嘉宾查询结果为空==============
+2019-12-24 11:28:30,228 - testCase.guest.get_guest.Get_guest - INFO - ==========查询嘉宾接口--嘉宾查询结果为空==============
+2019-12-24 11:28:30,244 - testCase.guest.get_guest.Get_guest - INFO - ============查询嘉宾接口--嘉宾查询成功===============
+2019-12-24 11:28:30,254 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----参数错误=================
+2019-12-24 11:28:30,259 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----发布会id为查询结果为空=================
+2019-12-24 11:28:30,275 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----发布会状态已关闭=================
+2019-12-24 11:28:30,284 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----发布会已经开始=================
+2019-12-24 11:28:30,300 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----嘉宾手机号码查询不到=================
+2019-12-24 11:28:30,316 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----用户未参加会议=================
+2019-12-24 11:28:30,334 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----用户已签到=================
+2019-12-24 11:28:30,358 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----签到成功=================
+2019-12-24 11:28:30,420 - runMain.RunMain - INFO - -----------test end------------
+2019-12-24 11:28:30,421 - runMain.RunMain - INFO - doesn't send result email to .

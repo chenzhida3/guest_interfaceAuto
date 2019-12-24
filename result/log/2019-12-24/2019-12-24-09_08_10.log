@@ -1,0 +1,8 @@
+2019-12-24 09:08:10,447 - testCase.event.add_event_sec.Add_event_sec - INFO - =============添加发布会接口--签名为空================
+2019-12-24 09:08:10,467 - testCase.event.add_event_sec.Add_event_sec - INFO - =============添加发布会接口--签名超时================
+2019-12-24 09:08:10,473 - testCase.event.add_event_sec.Add_event_sec - INFO - =============添加发布会接口--签名错误================
+2019-12-24 09:08:10,480 - testCase.event.add_event_sec.Add_event_sec - INFO - =============添加发布会接口--参数为空================
+2019-12-24 09:08:10,486 - testCase.event.add_event_sec.Add_event_sec - INFO - ==========添加发布会接口--发布会id已存在==============
+2019-12-24 09:08:10,503 - testCase.event.add_event_sec.Add_event_sec - INFO - ==========添加发布会接口--发布会名称已存在==============
+2019-12-24 09:08:10,516 - testCase.event.add_event_sec.Add_event_sec - INFO - ==========添加发布会接口--时间格式错误==============
+2019-12-24 09:08:10,534 - testCase.event.add_event_sec.Add_event_sec - INFO - ============添加发布会接口--添加成功===============

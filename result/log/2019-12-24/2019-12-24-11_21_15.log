@@ -1,0 +1,5 @@
+2019-12-24 11:21:15,677 - testCase.event.add_event.Add_event - INFO - =============添加发布会接口--参数为空================
+2019-12-24 11:21:15,697 - testCase.event.add_event.Add_event - INFO - ==========添加发布会接口--发布会id已存在==============
+2019-12-24 11:21:15,721 - testCase.event.add_event.Add_event - INFO - ==========添加发布会接口--发布会名称已存在==============
+2019-12-24 11:21:15,735 - testCase.event.add_event.Add_event - INFO - ==========添加发布会接口--时间格式错误==============
+2019-12-24 11:21:15,745 - testCase.event.add_event.Add_event - INFO - ============添加发布会接口--添加成功===============

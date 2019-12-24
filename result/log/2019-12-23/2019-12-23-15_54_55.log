@@ -1,0 +1,26 @@
+2019-12-23 15:54:55,671 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-23 15:54:55,671 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-23 15:54:55,671 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-23 15:54:55,671 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-23 15:54:55,672 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-23 15:54:55,676 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:54:55,744 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:54:55,803 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:54:55,845 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:54:55,895 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:54:55,920 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:54:55,953 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:54:56,006 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:54:56,047 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:54:56,070 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:54:56,104 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:54:56,128 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:54:56,153 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:54:56,185 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----参数错误=================
+2019-12-23 15:54:56,193 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----发布会id为空=================
+2019-12-23 15:54:56,204 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----发布会状态已关闭=================
+2019-12-23 15:54:56,227 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----发布会人数已满=================
+2019-12-23 15:54:56,239 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----发布会已经开始=================
+2019-12-23 15:54:56,264 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----嘉宾手机号码重复=================
+2019-12-23 15:54:56,312 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----嘉宾手机号码重复=================
+2019-12-23 15:54:56,318 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----添加嘉宾成功=================

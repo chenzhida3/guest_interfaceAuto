@@ -1,0 +1,16 @@
+2019-12-23 14:41:44,217 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-23 14:41:44,217 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-23 14:41:44,217 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-23 14:41:44,217 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-23 14:41:44,217 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-23 14:41:44,220 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:41:44,271 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:41:44,299 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:41:44,328 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:41:44,356 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:41:44,392 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:41:44,433 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:41:44,456 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:41:44,540 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:41:44,572 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:41:44,598 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----嘉宾手机号码重复=================

@@ -1,0 +1,17 @@
+2019-12-23 15:23:01,940 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-23 15:23:01,940 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-23 15:23:01,940 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-23 15:23:01,940 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-23 15:23:01,940 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-23 15:23:01,944 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:02,016 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:02,064 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:02,096 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:02,121 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:02,147 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:02,180 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:02,249 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:02,337 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:02,374 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:02,407 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:02,439 - testCase.guest.get_guest.Get_guest - INFO - ============查询嘉宾接口--嘉宾查询成功===============

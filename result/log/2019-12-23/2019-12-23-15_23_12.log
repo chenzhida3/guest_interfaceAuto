@@ -1,0 +1,21 @@
+2019-12-23 15:23:12,880 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-23 15:23:12,881 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-23 15:23:12,881 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-23 15:23:12,881 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-23 15:23:12,881 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-23 15:23:12,883 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:12,923 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:12,950 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:12,993 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:13,022 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:13,047 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:13,072 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:13,121 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:13,171 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:13,203 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:13,230 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:23:13,254 - testCase.guest.get_guest.Get_guest - INFO - =============查询嘉宾接口--参数为空================
+2019-12-23 15:23:13,259 - testCase.guest.get_guest.Get_guest - INFO - ==========查询嘉宾接口--嘉宾查询成功==============
+2019-12-23 15:23:13,292 - testCase.guest.get_guest.Get_guest - INFO - ==========查询嘉宾接口--嘉宾查询结果为空==============
+2019-12-23 15:23:13,308 - testCase.guest.get_guest.Get_guest - INFO - ==========查询嘉宾接口--嘉宾查询结果为空==============
+2019-12-23 15:23:13,323 - testCase.guest.get_guest.Get_guest - INFO - ============查询嘉宾接口--嘉宾查询成功===============

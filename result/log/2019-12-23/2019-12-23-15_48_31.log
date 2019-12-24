@@ -1,0 +1,25 @@
+2019-12-23 15:48:31,814 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-23 15:48:31,815 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-23 15:48:31,815 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-23 15:48:31,815 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-23 15:48:31,815 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-23 15:48:31,817 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:48:31,836 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:48:31,873 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:48:31,904 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:48:31,931 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:48:31,963 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:48:31,999 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:48:32,052 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:48:32,099 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:48:32,140 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:48:32,174 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:48:32,195 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:48:32,233 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:48:32,254 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----参数错误=================
+2019-12-23 15:48:32,263 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----发布会id为查询结果为空=================
+2019-12-23 15:48:32,280 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----发布会状态已关闭=================
+2019-12-23 15:48:32,299 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----发布会已经开始=================
+2019-12-23 15:48:32,310 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----用户未参加会议=================
+2019-12-23 15:48:32,329 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----用户已签到=================
+2019-12-23 15:48:32,358 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----签到成功=================

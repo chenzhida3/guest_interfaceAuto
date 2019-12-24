@@ -1,0 +1,19 @@
+2019-12-23 15:45:37,677 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-23 15:45:37,677 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-23 15:45:37,677 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-23 15:45:37,677 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-23 15:45:37,677 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-23 15:45:37,680 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:45:37,744 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:45:37,783 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:45:37,811 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:45:37,849 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:45:37,876 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:45:37,918 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:45:37,983 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:45:38,011 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:45:38,049 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:45:38,076 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:45:38,108 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:45:38,135 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 15:45:38,166 - testCase.guest.sign_guest.Sign_guest - INFO - ===============用户签到接口----嘉宾手机号码为空=================

@@ -1,0 +1,26 @@
+2019-12-24 09:07:54,753 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-24 09:07:54,755 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-24 09:07:54,755 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-24 09:07:54,755 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-24 09:07:54,755 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-24 09:07:54,844 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 09:07:54,870 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 09:07:54,907 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 09:07:54,937 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 09:07:54,964 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 09:07:54,996 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 09:07:55,023 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 09:07:55,083 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 09:07:55,131 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 09:07:55,163 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 09:07:55,296 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 09:07:55,331 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 09:07:55,363 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-24 09:07:55,390 - testCase.event.add_event_sec.Add_event_sec - INFO - =============添加发布会接口--签名为空================
+2019-12-24 09:07:55,407 - testCase.event.add_event_sec.Add_event_sec - INFO - =============添加发布会接口--签名超时================
+2019-12-24 09:07:55,415 - testCase.event.add_event_sec.Add_event_sec - INFO - =============添加发布会接口--签名错误================
+2019-12-24 09:07:55,422 - testCase.event.add_event_sec.Add_event_sec - INFO - =============添加发布会接口--参数为空================
+2019-12-24 09:07:55,430 - testCase.event.add_event_sec.Add_event_sec - INFO - ==========添加发布会接口--发布会id已存在==============
+2019-12-24 09:07:55,440 - testCase.event.add_event_sec.Add_event_sec - INFO - ==========添加发布会接口--发布会名称已存在==============
+2019-12-24 09:07:55,451 - testCase.event.add_event_sec.Add_event_sec - INFO - ==========添加发布会接口--时间格式错误==============
+2019-12-24 09:07:55,463 - testCase.event.add_event_sec.Add_event_sec - INFO - ============添加发布会接口--添加成功===============

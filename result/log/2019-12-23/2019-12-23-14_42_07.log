@@ -1,0 +1,23 @@
+2019-12-23 14:42:07,907 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-23 14:42:07,907 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-23 14:42:07,907 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-23 14:42:07,907 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-23 14:42:07,907 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-23 14:42:07,911 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:42:07,986 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:42:08,097 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:42:08,148 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:42:08,191 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:42:08,256 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:42:08,302 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:42:08,390 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:42:08,447 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:42:08,500 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:42:08,548 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----参数错误=================
+2019-12-23 14:42:08,561 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----发布会id为空=================
+2019-12-23 14:42:08,575 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----发布会状态已关闭=================
+2019-12-23 14:42:08,587 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----发布会人数已满=================
+2019-12-23 14:42:08,611 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----发布会已经开始=================
+2019-12-23 14:42:08,623 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----嘉宾手机号码重复=================
+2019-12-23 14:42:08,670 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----嘉宾手机号码重复=================
+2019-12-23 14:42:08,673 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----添加嘉宾成功=================

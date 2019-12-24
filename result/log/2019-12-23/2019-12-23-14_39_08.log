@@ -1,0 +1,16 @@
+2019-12-23 14:39:08,054 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-23 14:39:08,054 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-23 14:39:08,054 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-23 14:39:08,054 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-23 14:39:08,054 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-23 14:39:08,076 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:39:08,156 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:39:08,228 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:39:08,276 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:39:08,309 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:39:08,359 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:39:08,415 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:39:08,483 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:39:08,537 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:39:08,572 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:39:08,647 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----发布会人数已满=================

@@ -1,0 +1,16 @@
+2019-12-23 14:57:50,496 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-23 14:57:50,496 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-23 14:57:50,496 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-23 14:57:50,496 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-23 14:57:50,496 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-23 14:57:50,569 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:57:50,628 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:57:50,696 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:57:50,733 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:57:50,772 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:57:50,808 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:57:50,847 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:57:50,883 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:57:50,921 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:57:50,958 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:57:50,985 - testCase.event.get_event.Get_event - INFO - ==========添加发布会接口--发布会查询结果为空==============

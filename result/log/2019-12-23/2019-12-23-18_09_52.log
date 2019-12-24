@@ -1,0 +1,23 @@
+2019-12-23 18:09:52,740 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-23 18:09:52,740 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-23 18:09:52,740 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-23 18:09:52,740 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-23 18:09:52,740 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-23 18:09:52,840 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:09:52,876 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:09:52,900 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:09:52,937 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:09:52,967 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:09:52,995 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:09:53,026 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:09:53,052 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:09:53,134 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:09:53,171 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:09:53,201 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:09:53,230 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:09:53,269 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 18:09:53,299 - testCase.event.add_event.Add_event - INFO - =============添加发布会接口--参数为空================
+2019-12-23 18:09:53,307 - testCase.event.add_event.Add_event - INFO - ==========添加发布会接口--发布会id已存在==============
+2019-12-23 18:09:53,325 - testCase.event.add_event.Add_event - INFO - ==========添加发布会接口--发布会名称已存在==============
+2019-12-23 18:09:53,347 - testCase.event.add_event.Add_event - INFO - ==========添加发布会接口--时间格式错误==============
+2019-12-23 18:09:53,358 - testCase.event.add_event.Add_event - INFO - ============添加发布会接口--添加成功===============

@@ -1,0 +1,16 @@
+2019-12-23 14:30:13,963 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[host:127.0.0.1]
+2019-12-23 14:30:13,963 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[port:3306]
+2019-12-23 14:30:13,963 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[user:root]
+2019-12-23 14:30:13,963 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[password:51testing]
+2019-12-23 14:30:13,963 - public.readConfig.ReadConfig - INFO - 读取config.ini文件 mysql:[db_name:guest_test]
+2019-12-23 14:30:13,966 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:30:14,006 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:30:14,062 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:30:14,127 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:30:14,156 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:30:14,302 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:30:14,358 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:30:14,401 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:30:14,488 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:30:14,519 - public.configDB.MysqlDB - INFO - 连接数据库
+2019-12-23 14:30:14,566 - testCase.guest.add_guest.Add_guest - INFO - ===============添加嘉宾接口----参数错误=================

@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c6419f0-edce-4cea-adc2-818bb764dd79" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_get_event_Get_event_test03_eventNull_name.coverage" NAME="Unittests for get_event.Get_event.test03_eventNull_name Coverage Results" MODIFIED="1577084364601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/event" />
+    <SUITE FILE_PATH="coverage/guest_interface$runmain.coverage" NAME="runmain Coverage Results" MODIFIED="1577158107990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_guest_Add_guest_test02_idNull.coverage" NAME="Unittests for add_guest.Add_guest.test02_idNull Coverage Results" MODIFIED="1577082620839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_event_Add_event_test01_paramsNull.coverage" NAME="Unittests for add_event.Add_event.test01_paramsNull Coverage Results" MODIFIED="1577078892061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_event_sec_Add_event_sec_test01_signNull.coverage" NAME="Unittests for add_event_sec.Add_event_sec.test01_signNull Coverage Results" MODIFIED="1577149268923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/event" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_event_Add_event_test04_timeFormat.coverage" NAME="Unittests for add_event.Add_event.test04_timeFormat Coverage Results" MODIFIED="1577079045321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_get_event_Get_event_test01_paramsNull.coverage" NAME="Unittests for get_event.Get_event.test01_paramsNull Coverage Results" MODIFIED="1577084263060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/event" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_sign_guest_Sign_guest_test05_phoneNull.coverage" NAME="Unittests for sign_guest.Sign_guest.test05_phoneNull Coverage Results" MODIFIED="1577087453795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_event_sec_Add_event_sec_test08_success.coverage" NAME="Unittests for add_event_sec.Add_event_sec.test08_success Coverage Results" MODIFIED="1577148986364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/event" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_sign_guest_Sign_guest_test06_userNot.coverage" NAME="Unittests for sign_guest.Sign_guest.test06_userNot Coverage Results" MODIFIED="1577087433227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_guest_Add_guest_test03_statusClose.coverage" NAME="Unittests for add_guest.Add_guest.test03_statusClose Coverage Results" MODIFIED="1577082626288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+    <SUITE FILE_PATH="coverage/guest_interface$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1576916188149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_guest_Add_guest_test08_success.coverage" NAME="Unittests for add_guest.Add_guest.test08_success Coverage Results" MODIFIED="1577083314232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+    <SUITE FILE_PATH="coverage/guest_interface$filePath.coverage" NAME="filePath Coverage Results" MODIFIED="1576915693910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_sign_guest_Sign_guest_test07_signExit.coverage" NAME="Unittests for sign_guest.Sign_guest.test07_signExit Coverage Results" MODIFIED="1577087592963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_event_Add_event_test03_nameExit.coverage" NAME="Unittests for add_event.Add_event.test03_nameExit Coverage Results" MODIFIED="1577079040383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_get_event_sec_Get_event_sec.coverage" NAME="Unittests for get_event_sec.Get_event_sec Coverage Results" MODIFIED="1577098304622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/event" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_event_sec_Add_event_sec_test04_paramsNull.coverage" NAME="Unittests for add_event_sec.Add_event_sec.test04_paramsNull Coverage Results" MODIFIED="1577149496833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/event" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_event_sec_Add_event_sec.coverage" NAME="Unittests for add_event_sec.Add_event_sec Coverage Results" MODIFIED="1577149689711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/event" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_get_event_Get_event_test05_success_name.coverage" NAME="Unittests for get_event.Get_event.test05_success_name Coverage Results" MODIFIED="1577085132365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/event" />
+    <SUITE FILE_PATH="coverage/guest_interface$add_dataDB.coverage" NAME="add_dataDB Coverage Results" MODIFIED="1577067204463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testData" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_guest_Add_guest_test07_phoneFomat.coverage" NAME="Unittests for add_guest.Add_guest.test07_phoneFomat Coverage Results" MODIFIED="1577083303958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_guest_Add_guest_test05_eventStart.coverage" NAME="Unittests for add_guest.Add_guest.test05_eventStart Coverage Results" MODIFIED="1577083285271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_event_sec_Add_event_sec_test03_signErr.coverage" NAME="Unittests for add_event_sec.Add_event_sec.test03_signErr Coverage Results" MODIFIED="1577149277480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/event" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_sign_guest_Sign_guest.coverage" NAME="Unittests for sign_guest.Sign_guest Coverage Results" MODIFIED="1577087705864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+    <SUITE FILE_PATH="coverage/guest_interface$configDB.coverage" NAME="configDB Coverage Results" MODIFIED="1577062550124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_guest_Add_guest.coverage" NAME="Unittests for add_guest.Add_guest Coverage Results" MODIFIED="1577087695344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_event_Add_event_test02_idExit.coverage" NAME="Unittests for add_event.Add_event.test02_idExit Coverage Results" MODIFIED="1577079032581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_event_Add_event.coverage" NAME="Unittests for add_event.Add_event Coverage Results" MODIFIED="1577157674783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/event" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_guest_Add_guest_test06_phoneRepeat.coverage" NAME="Unittests for add_guest.Add_guest.test06_phoneRepeat Coverage Results" MODIFIED="1577083290507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_get_event_Get_event_test04_success_id.coverage" NAME="Unittests for get_event.Get_event.test04_success_id Coverage Results" MODIFIED="1577085122846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/event" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_get_guest_Get_guest.coverage" NAME="Unittests for get_guest.Get_guest Coverage Results" MODIFIED="1577087699872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_guest_Add_guest_test04_full.coverage" NAME="Unittests for add_guest.Add_guest.test04_full Coverage Results" MODIFIED="1577083277675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_get_event_Get_event_test02_eventNull.coverage" NAME="Unittests for get_event.Get_event.test02_eventNull Coverage Results" MODIFIED="1577084270328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/event" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_get_guest_Get_guest_test05_success.coverage" NAME="Unittests for get_guest.Get_guest.test05_success Coverage Results" MODIFIED="1577085781673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_guest_Add_guest_test01_paramErr.coverage" NAME="Unittests for add_guest.Add_guest.test01_paramErr Coverage Results" MODIFIED="1577082613741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_get_event_Get_event.coverage" NAME="Unittests for get_event.Get_event Coverage Results" MODIFIED="1577087690098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/event" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_add_event_sec_Add_event_sec_test02_signTimeOut.coverage" NAME="Unittests for add_event_sec.Add_event_sec.test02_signTimeOut Coverage Results" MODIFIED="1577149355140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/event" />
+    <SUITE FILE_PATH="coverage/guest_interface$Unittests_for_sign_guest_Sign_guest_test07_signSuccess.coverage" NAME="Unittests for sign_guest.Sign_guest.test07_signSuccess Coverage Results" MODIFIED="1577087657252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/guest" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1374760850">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="7" />
+          <entry key="ini" value="2" />
+          <entry key="md" value="2" />
+          <entry key="py" value="33" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="7" />
+          <entry key="Ini" value="2" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="33" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="12" />
+          <entry key="ini" value="94" />
+          <entry key="md" value="33" />
+          <entry key="py" value="4844" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="12" />
+          <entry key="Ini" value="94" />
+          <entry key="Markdown" value="33" />
+          <entry key="Python" value="4844" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/event/add_event_sec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <folding>
+                <element signature="e#155#169#0" expanded="true" />
+                <marker date="1577158269156" expanded="true" signature="1022:2609" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/result/report/2019-12-24/2019-12-24-11_28_28_result.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="1098" column="21" lean-forward="true" selection-start-line="1098" selection-start-column="21" selection-end-line="1098" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/event/add_event.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <folding>
+                <element signature="e#145#160#0" expanded="true" />
+                <marker date="1577095592831" expanded="true" signature="397:419" ph="..." />
+                <marker date="1577095592831" expanded="true" signature="575:608" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/guest/add_guest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <folding>
+                <element signature="e#144#159#0" expanded="true" />
+                <marker date="1577157886549" expanded="true" signature="396:401" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/event/get_event.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <folding>
+                <element signature="e#145#160#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/event/get_event_sec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/guest/get_guest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <folding>
+                <element signature="e#144#159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runmain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
+              <folding>
+                <element signature="e#143#158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/guest/sign_guest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <element signature="e#145#160#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/configDB.py" />
+        <option value="$PROJECT_DIR$/testCase/add_event.py" />
+        <option value="$PROJECT_DIR$/testCase/event/add_event.py" />
+        <option value="$PROJECT_DIR$/testCase/event/get_event_sec.py" />
+        <option value="$PROJECT_DIR$/doc/redmine.md" />
+        <option value="$PROJECT_DIR$/public/common.py" />
+        <option value="$PROJECT_DIR$/public/readConfig.py" />
+        <option value="$PROJECT_DIR$/filePath.py" />
+        <option value="$PROJECT_DIR$/runmain.py" />
+        <option value="$PROJECT_DIR$/testFile/emailContent.html" />
+        <option value="$PROJECT_DIR$/public/configEmail.py" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/testData/add_dataDB.py" />
+        <option value="$PROJECT_DIR$/testCase/event/get_event.py" />
+        <option value="$PROJECT_DIR$/testCase/guest/add_guest.py" />
+        <option value="$PROJECT_DIR$/testCase/guest/get_guest.py" />
+        <option value="$PROJECT_DIR$/testCase/guest/sign_guest.py" />
+        <option value="$PROJECT_DIR$/testCase/event/add_event_sec.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1311" />
+    <option name="height" value="996" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="guest_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guest_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guest_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guest_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guest_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guest_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guest_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guest_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guest_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guest_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guest_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guest_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-12-24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guest_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guest_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="testCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guest_interface" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guest_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="testFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/PythonFile/LuxdomoAuto" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DjangoFiles\guest_interface\testFile" />
+      <recent name="D:\DjangoFiles\guest_interface\doc" />
+      <recent name="D:\DjangoFiles\guest_interface\testCase\event" />
+      <recent name="D:\DjangoFiles\guest_interface\public" />
+      <recent name="D:\DjangoFiles\guest_interface\runner" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DjangoFiles\guest_interface\testCase\event" />
+      <recent name="D:\DjangoFiles\guest_interface\result" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.runmain">
+    <configuration name="runmain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="guest_interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runmain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for add_event.Add_event" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="guest_interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase/event" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;add_event.Add_event&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for add_event_sec.Add_event_sec" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="guest_interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase/event" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;add_event_sec.Add_event_sec&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for add_event_sec.Add_event_sec.test02_signTimeOut" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="guest_interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase/event" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;add_event_sec.Add_event_sec.test02_signTimeOut&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for add_event_sec.Add_event_sec.test04_paramsNull" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="guest_interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase/event" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;add_event_sec.Add_event_sec.test04_paramsNull&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for add_event_sec.Add_event_sec" />
+      <item itemvalue="Python tests.Unittests for add_event_sec.Add_event_sec.test02_signTimeOut" />
+      <item itemvalue="Python tests.Unittests for add_event_sec.Add_event_sec.test04_paramsNull" />
+      <item itemvalue="Python.runmain" />
+      <item itemvalue="Python tests.Unittests for add_event.Add_event" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runmain" />
+        <item itemvalue="Python tests.Unittests for add_event.Add_event" />
+        <item itemvalue="Python tests.Unittests for add_event_sec.Add_event_sec" />
+        <item itemvalue="Python tests.Unittests for add_event_sec.Add_event_sec.test04_paramsNull" />
+        <item itemvalue="Python tests.Unittests for add_event_sec.Add_event_sec.test02_signTimeOut" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c6419f0-edce-4cea-adc2-818bb764dd79" name="Default Changelist" comment="" />
+      <created>1576913181206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576913181206</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_add_event_sec_Add_event_sec_test02_signTimeOut - 2019.12.24 at 09h 01m 33s.xml">
+      <configuration name="Unittests for add_event_sec.Add_event_sec.test02_signTimeOut" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_add_event_sec_Add_event_sec_test02_signTimeOut - 2019.12.24 at 09h 02m 35s.xml">
+      <configuration name="Unittests for add_event_sec.Add_event_sec.test02_signTimeOut" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_add_event_sec_Add_event_sec_test04_paramsNull - 2019.12.24 at 09h 04m 30s.xml">
+      <configuration name="Unittests for add_event_sec.Add_event_sec.test04_paramsNull" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_add_event_sec_Add_event_sec_test04_paramsNull - 2019.12.24 at 09h 04m 57s.xml">
+      <configuration name="Unittests for add_event_sec.Add_event_sec.test04_paramsNull" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_add_event_sec_Add_event_sec - 2019.12.24 at 09h 05m 31s.xml">
+      <configuration name="Unittests for add_event_sec.Add_event_sec" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_add_event_sec_Add_event_sec - 2019.12.24 at 09h 06m 12s.xml">
+      <configuration name="Unittests for add_event_sec.Add_event_sec" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_add_event_sec_Add_event_sec - 2019.12.24 at 09h 07m 55s.xml">
+      <configuration name="Unittests for add_event_sec.Add_event_sec" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_add_event_sec_Add_event_sec - 2019.12.24 at 09h 08m 10s.xml">
+      <configuration name="Unittests for add_event_sec.Add_event_sec" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_add_event_Add_event - 2019.12.24 at 11h 06m 52s.xml">
+      <configuration name="Unittests for add_event.Add_event" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_add_event_Add_event - 2019.12.24 at 11h 21m 15s.xml">
+      <configuration name="Unittests for add_event.Add_event" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Log Viewer" />
+      <window_info anchor="bottom" id="SOQL Query" />
+      <window_info anchor="bottom" id="Anonymous Apex" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43987" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42145178" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/runmain.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/runner/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testFile/dbSQL.xml" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pymysql/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="821" selection-start-line="821" selection-end-line="821" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="310" selection-start-line="310" selection-end-line="310" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/configLog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/readmine.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/redmine.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="138">
+            <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#174#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#146#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filePath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+          <folding>
+            <element signature="e#145#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/report/2019-12-24/2019-12-24-11_03_19_result.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/configDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+          <folding>
+            <element signature="e#144#155#0" expanded="true" />
+            <marker date="1577062550096" expanded="true" signature="350:750" ph="..." />
+            <marker date="1577062550096" expanded="true" signature="350:754" ph="..." />
+            <marker date="1577062550096" expanded="true" signature="1246:1255" ph="..." />
+            <marker date="1577062550096" expanded="true" signature="1246:1543" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testFile/emailContent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/report/2019-12-24/2019-12-24-11_08_42_result.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/configEmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <element signature="e#144#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testData/add_dataDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <marker date="1577087657131" expanded="true" signature="200:201" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/event/add_event.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="e#145#160#0" expanded="true" />
+            <marker date="1577095592831" expanded="true" signature="397:419" ph="..." />
+            <marker date="1577095592831" expanded="true" signature="575:608" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/event/get_event.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <element signature="e#145#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/guest/add_guest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <element signature="e#144#159#0" expanded="true" />
+            <marker date="1577157886549" expanded="true" signature="396:401" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/guest/get_guest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <element signature="e#144#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/guest/sign_guest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="e#145#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runmain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="e#143#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/report/2019-12-24/2019-12-24-11_24_46_result.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/report/2019-12-24/2019-12-24-11_26_28_result.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/event/get_event_sec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/event/add_event_sec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="e#155#169#0" expanded="true" />
+            <marker date="1577158269156" expanded="true" signature="1022:2609" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/report/2019-12-24/2019-12-24-11_28_28_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="1098" column="21" lean-forward="true" selection-start-line="1098" selection-start-column="21" selection-end-line="1098" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
